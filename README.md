@@ -1,5 +1,5 @@
 # Projeto-Lp-Arquitetura
-Meu primeiro desafio do curso de tecnologia da DNC 
+Meu primeiro desafio do curso de tecnologia da DNC, consiste em um projeto de uma Landing Page de arquitetura, com o objetivo de ser uma pagina de captura de Emails.
 
 Link para o projeto hospodeado na netlify - https://courageous-sherbet-51779a.netlify.app/
 
